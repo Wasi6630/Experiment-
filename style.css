@@ -8,9 +8,12 @@
 }
 .main-poster{
     width: 1140px;
+    
 }
 #container{
-    margin: 80px;
+   margin-left: 350px;
+   margin-top: 100px;
+   
 }
 .poster-details{
     display: flex;
