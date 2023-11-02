@@ -1,0 +1,88 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+ p{
+    font-family: sans-serif;
+}
+.main-poster{
+    width: 1140px;
+}
+#container{
+    margin: 80px;
+}
+.poster-details{
+    display: flex;
+    justify-content: space-between;
+    width: 800px;
+    margin-top: 25px;
+}
+.poster-right{
+    width: 450px;
+    padding-left: 0px;
+}
+.new-dtl{
+    width: 100%;
+    padding-left: 20px;
+}
+.about p{
+    padding-bottom: 10px;
+}
+
+.poster-left h1{
+    font-size: 40px;
+    font-family: sans-serif;
+    color: slategrey
+}
+.poster-left h3{
+    padding: 20px 0;
+    font-size: 20px;
+    font-weight: 20px;
+    font-family: sans-serif;
+}
+.poster-left ul{
+    margin-left:40px ;
+}
+
+.poster-right img{
+   width: 300px; 
+}
+.two-img{
+    width: 70%;
+    padding-left:0px;
+   
+}
+#work{
+    width: 1140px;
+   margin-top: 50px;
+   margin-bottom: 70px;
+}
+.main-expreance{
+    margin: 25px 10px;
+    display: flex;
+    
+}
+.expreance{
+    height: 200px;
+    width: 250px;
+    box-shadow:  rgba(149, 157, 165, 0.2) 0px 8px 24px;
+    border-radius: 15px;
+    margin-left: 13px;
+}
+.logo img{
+    height: 70px;  
+}
+.logo-app img{
+    height: 30px;
+    margin: 20px 15px;
+}
+.banner-dtls{
+    padding-left: 15px;
+}
+.banner-dtls p{
+    padding-top: 15px;
+}
+h2{
+    font-family: sans-serif;
+}
